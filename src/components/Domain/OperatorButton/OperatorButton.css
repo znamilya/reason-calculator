@@ -1,0 +1,25 @@
+.operator-button._type_plus {
+    grid-row-start: 1;
+    grid-column-start: 4;
+}
+
+.operator-button._type_minus {
+    grid-row-start: 2;
+    grid-column-start: 4;
+}
+
+.operator-button._type_multiply {
+    grid-row-start: 3;
+    grid-column-start: 4;
+}
+
+.operator-button._type_divide {
+    grid-row-start: 4;
+    grid-column-start: 4;
+}
+
+.operator-button._type_equals {
+    grid-row-start: 5;
+    grid-column-start: 3;
+    grid-column-end: 5;
+}
